@@ -1,0 +1,6 @@
+Frontend:	ReactJS
+Backend:	Python (FastAPI)
+Database:	MongoDB
+Data Ingestion:	Apache Kafka
+Stream Processing:	Kafka Streams
+Sentiment Analysis: some ml model
